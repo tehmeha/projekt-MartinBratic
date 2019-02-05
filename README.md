@@ -1,5 +1,5 @@
-# naziv projekta
+# Diferencijalni kalkulator
 - projetnik zadatak SSSS Tehmeha
-- team members: Ime Prezime
+- team members: Lovro Antolović, Martin Bratić
 - programming language: C++
-- description: Opis
+- description: 
